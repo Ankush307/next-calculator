@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-const Calculator = () => {
+const CustomCalculator = () => {
     const BUTTON_LIST = [
         "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "+", "-", "*", "/"
     ]
@@ -45,4 +45,4 @@ const Calculator = () => {
     );
 };
 
-export default Calculator;
+export default CustomCalculator ;

@@ -1,9 +1,9 @@
-import CustomCalculate from "@/components/CustomCalculator";
+import LocalStoragePractice from "@/components/LocalStoragePractice";
 
 export default function Home() {
   return (
     <>
-      <CustomCalculate />
+      <LocalStoragePractice />
     </>
   );
 }
